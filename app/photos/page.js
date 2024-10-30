@@ -6,9 +6,9 @@ export default function Photos(){
              <h1 className="mb-8 text-2xl font-medium tracking-tight">Photos</h1>
              <Img
                 images={[
-                    { src:"/app/cuan-pulsa.png" },
-                    { src:"/app/apps.jpeg" },
-                    { src:"/app/rapat.jpeg" }
+                    { src:"/my-portfolio/app/cuan-pulsa.png" },
+                    { src:"/my-portfolio/app/apps.jpeg" },
+                    { src:"/my-portfolio/app/rapat.jpeg" }
                 ]}
              />
         </section>
